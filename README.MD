@@ -20,7 +20,7 @@ _______________
 
 	$ git clone https://github.com/WH1T3-E4GL3/eagle-dos.git
 
-	$ cd eagle-dos.py
+	$ cd anonddos.py
 
 	$ git pull
 
