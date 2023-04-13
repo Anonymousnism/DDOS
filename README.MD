@@ -14,11 +14,13 @@ commands
 
 _______________
 
-	$ apt update -y && apt upgrade -y	$ pkg install git
+	$ apt update -y && apt upgrade -y
+	
+	$ pkg install git
 
 	$ pkg install python2
 
-	$ git clone https://github.com/WH1T3-E4GL3/eagle-dos.git
+	$ git clone https://github.com/Anonymousnism/anonddos.git
 
 	$ cd anonddos.py
 
