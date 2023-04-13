@@ -1,2 +1,0 @@
-# DDOS
-DDOS TERMUX
